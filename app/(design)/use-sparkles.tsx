@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 import SparklesCore from "../../components/sparkles";
-import { ThreeDCardDemo } from "./use-3dcard";
+// import { ThreeDCardDemo } from "./use-3dcard";
 import { LoginButton } from "@/components/auth/login-button";
 import { StartNowButton } from "./landing-start-button";
 import Lottie from "lottie-react";
